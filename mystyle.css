@@ -1,0 +1,30 @@
+
+* {background-color:lightgray;}
+
+body {margin-right: 200px;
+      margin-left: 200px;
+      margin-top: 100px;
+}
+
+
+
+
+ul{margin-top: -15px;}
+
+
+a.bluebuttonlink{
+  background-color: #008CBA;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+
+a.normallink{
+  color: #008CBA;
+  text-decoration: none;
+}
+
+
